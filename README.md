@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hello there :D
 ![5ce31f94-a3df-47fe-bdfe-c56e96cdeb73](https://user-images.githubusercontent.com/114350686/216793710-1fcf7bf0-0bf7-4b4b-b58c-f9a9f1fd96e8.jpg)
+##Things i like doing
+- I love learning science and anything quantum level ⚛️🔭
+-I love learning !! 📑📚
+- Machine learning sure seems fun 🤖
+- Did I tell you i paint a lot 🎨🖌️
+- I code in free time too 💻
 
 <!--
 **saarucore/saarucore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
