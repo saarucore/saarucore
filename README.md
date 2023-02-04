@@ -7,7 +7,8 @@
 - Did I tell you i paint a lot 🎨🖌️
 - I code in free time too 💻
 ### stats
-![GitHub language count](https://img.shields.io/github/languages/count/saarucore/saarucore)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=saarucore&show_icons=true&theme=transparent)
+
 <!--
 **saarucore/saarucore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
